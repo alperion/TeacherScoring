@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52670418924",
+    "project_id": "ensonproje-dad31",
+    "storage_bucket": "ensonproje-dad31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52670418924:android:84b42525aab6496bee3ac9",
+        "android_client_info": {
+          "package_name": "com.example.ensonproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52670418924-o588tfbif7g2srhkas8vfe8scfh3ek7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsxam-onq6QcvSDuh2SL1fZyg1rSzLYic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52670418924-o588tfbif7g2srhkas8vfe8scfh3ek7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
